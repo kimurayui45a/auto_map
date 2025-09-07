@@ -497,6 +497,4 @@ public class TileMapController : MonoBehaviour
         }
     }
 
-
-
 }
